@@ -19,6 +19,7 @@ BerryEasy_Kwant_Interface_Beta: Tutorial detailing how to interface BerryEasy wt
 
 BerryEasy_Documentation: PDF with details of the code and functionalities
 
+Wannier90Files: Folder with necessary output of Wannier90 to run Wannier90 TB model examples in the tutorials
 
 
 
