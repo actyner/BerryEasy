@@ -13,3 +13,12 @@ Defect_QSH: Example detaling computation of Wannier center spectra in quantum sp
 
 Disorder_QuadrupolarInsulator_BerryEasy: Example detailing computation of spin-Chern number in a spinful quadrupolar insulator to identify topological phase transition as a function of chiral symmetry preserving disorder
 
+PythTB_Disorder_Chern_Insulator_Comparison: Jupyter notebook comparing computation of Chern number in a supercell using PythTB and BerryEasy (both the CPU and GPU versions)
+
+BerryEasy_Kwant_Interface_Beta: Tutorial detailing how to interface BerryEasy wth Kwant
+
+BerryEasy_Documentation: PDF with details of the code and functionalities
+
+
+
+
