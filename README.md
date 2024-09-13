@@ -1,6 +1,17 @@
 # BerryEasy
 GPU enabled python package for computation of topological invariants in tight-binding models and solid-state systems
 
+###################
+INSTALLATION UPDATE (09/13/2024):
+
+Installation issues have been encountered for installation of PyBinding, a dependency of BerryEasy. 
+These issues are fixed by perfroming:
+
+pip install pybinding-dev
+pip install tqdm
+pip install BerryEasy --no-deps
+####################
+
 When usinng please cite:
 
 Directory:
