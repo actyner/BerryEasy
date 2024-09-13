@@ -8,7 +8,9 @@ Installation issues have been encountered for installation of PyBinding, a depen
 These issues are fixed by perfroming:
 
 pip install pybinding-dev
+
 pip install tqdm
+
 pip install BerryEasy --no-deps
 
 ####################
