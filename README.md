@@ -10,6 +10,7 @@ These issues are fixed by perfroming:
 pip install pybinding-dev
 pip install tqdm
 pip install BerryEasy --no-deps
+
 ####################
 
 When usinng please cite:
